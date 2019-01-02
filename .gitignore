@@ -1,0 +1,28 @@
+# Beginning C++ GitIgnore
+# Created by Ricardo Masabel A.
+
+### Output and Cache Directories ###
+*/External/
+*/Debug/
+*/Docs/
+*/Release/
+*/build/
+*/bin/
+*/out/
+*/cmake-build-*/
+
+# Language --------------------------------------------------------------------
+
+### C++ ###
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Editors --------------------------------------------------------------------
+
+*/.vs/
